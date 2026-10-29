@@ -1,2 +1,2 @@
-# Sales-Data-Analyzer-2
+# Sales-Data-Analyzer
 Python project for sales data analysis.
